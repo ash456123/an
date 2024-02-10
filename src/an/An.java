@@ -6,5 +6,9 @@ public class An {
 		// TODO Auto-generated method stub
 
 	}
+	private void Sysout() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
